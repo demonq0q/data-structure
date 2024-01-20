@@ -10,6 +10,4 @@
 
 ## [排序](排序.md)
 
-## 引用
-
-> [hello算法](https://www.hello-algo.com/)
+## 引用：[hello算法](https://www.hello-algo.com/)
